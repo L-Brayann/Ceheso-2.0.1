@@ -1,0 +1,10 @@
+:root {
+    --primary-color:#0A1128;
+    --secondary-color:#42d8e6;
+    --white-color: #ffffff;
+    --gray-color: #eee;
+    --blue-color: #0000CD;
+    --darkblue-color: #000080;
+    --color-gradient: linear-gradient (90deg, var(--blue-color), var(--darkblue-color)) ;
+    --gap: 3rem;
+}

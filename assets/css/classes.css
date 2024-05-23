@@ -1,0 +1,55 @@
+
+.logo {
+    color: white;
+}
+.main-bg {
+    background-size: cover;
+    background-position: center center;
+    color: #113A8C;
+}
+.white-bg {
+    background: var(--white-color);
+    color: var(--primary-color)
+}
+
+.main-content {
+    max-width: 100vh;
+    margin: 0 auto;
+    padding: 10rem var(--gap);
+}
+
+.terceirao-bg { 
+    background-color: #5C2B8C;
+
+}
+
+.terceiro-color {
+    color: #5C2B8C;
+}
+
+.section-in {
+    min-height: 50vh;
+}
+
+.section {
+    min-height: 100vh;
+}
+
+
+.menu-spacing {
+    height: 65px;
+}
+
+body .full-width {
+    width: 100%;
+    flex: 1 1 100%;
+}
+
+.img {
+    align-items: center;
+}
+
+.chs {
+    width: 100px;
+    height: 80px;
+}
